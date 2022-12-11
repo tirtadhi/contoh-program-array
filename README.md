@@ -1,1 +1,1 @@
-# contoh-program-array
+contoh program menggunakan array
